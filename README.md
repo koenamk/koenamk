@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Koena Mukherjee.
-- 👀 I’m interested in intersections of business, math, cognitive science and technology.
+- 👀 I’m interested in intersections of math, business, cognitive science and technology.
 - 🌱 I’m currently learning JavaScript and HTML+CSS.
 - 💞️ I’m looking to collaborate on projects that tickle your brain!
 - 📫 If this resonates with you, reach out to me on kmukherj@uwaterloo.ca
