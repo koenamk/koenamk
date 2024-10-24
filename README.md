@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @koenamk
+- 👋 Hi, I’m Koena Mukherjee.
 - 👀 I’m interested in intersections of business, math, cognitive science and technology.
 - 🌱 I’m currently learning JavaScript and HTML+CSS.
 - 💞️ I’m looking to collaborate on projects that tickle your brain!
