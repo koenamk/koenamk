@@ -1,13 +1,13 @@
  ✨ **about me**
-🎉 building community and spreading good vibes @UWaterloo Connection Collective
-🎓 studying math, economics and cs at @uwaterloo
-🇨🇦 living in waterloo and drinking maple syrup
-⛰️ adventuring!
+- 🎉 building community and spreading good vibes @UWaterloo Connection Collective
+- 🎓 studying math, economics and cs at @uwaterloo
+- 🇨🇦 living in waterloo and drinking maple syrup
+- ⛰️ adventuring!
 
 😎 **cool stuff i've done**
-⚡ proposed a fintech solution to RBC 
+- ⚡ proposed a fintech solution to RBC 
   - 2nd place and Top 5 individual in the program!
-👀 won 2nd place regional badminton interhigh in halifax, ns
+- 👀 won 2nd place regional badminton interhigh in halifax, ns
 
 
 <!---
