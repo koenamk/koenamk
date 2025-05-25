@@ -1,7 +1,7 @@
  ✨ **about me**
 - 🎉 building community and spreading good vibes @UWaterloo Connection Collective
-- 🎓 studying math, economics and cs at @uwaterloo
-- 🇨🇦 living in waterloo and drinking maple syrup
+- 🎓 studying math and bio at @uwaterloo
+- 🇨🇦 working at RBC
 - ⛰️ adventuring!
 
 😎 **cool stuff i've done**
