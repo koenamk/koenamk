@@ -1,7 +1,6 @@
  ✨ **about me**
-- 🎓 studying math at @uwaterloo 
+- 🎓 studying applied math at @uwaterloo 
 - 🎉 building community and spreading good vibes @UWaterloo Connection Collective
-- 📊 working as a data analyst at RBC Insurance
 
 😎 **stuff i've done**
 - 🗼 survived my first solo trip to japan
