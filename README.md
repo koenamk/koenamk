@@ -1,3 +1,5 @@
+## Hi, I'm Koena!
+
  ✨ **about me**
 - 🎓 studying applied math at @uwaterloo 
 - 🎉 building community and spreading good vibes @ UWaterloo Connection Collective
