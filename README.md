@@ -2,7 +2,7 @@
 
  ✨ **about me**
 - 🎓 Studying applied math and scientific machine learning at @uwaterloo 
-- 🎉 Suilding community and spreading good vibes @ UWaterloo Connection Collective
+- 🎉 Building community and spreading good vibes @ UWaterloo Connection Collective
 
 😎 **stuff i've done**
 - 💲 Previously worked at RBC in Data & Operations. 
